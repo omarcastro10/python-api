@@ -47,4 +47,3 @@ if __name__ == "__main__":
 
     # Delete an employee
     print(delete_employee(6))
-    
